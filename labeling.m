@@ -34,9 +34,9 @@ for i = 1:n_images
     masks(:, :, j) = mask;
     end
     
-    [first_part,~] = strtok(images(i).name,'_');
-    mask_name = strcat(first_part,'_mask');
-    save_path_mask = fullfile(save_path, mask_name);
-    save(save_path_mask, 'masks');
+    %[first_part,~] = strtok(images(i).name,'_');
+    %mask_name = strcat(first_part,'_mask');
+    %save_path_mask = fullfile(save_path, mask_name);
+    %save(save_path_mask, 'masks');
 end
 
