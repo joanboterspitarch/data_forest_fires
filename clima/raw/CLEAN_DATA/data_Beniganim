@@ -1,4 +1,4 @@
-FECHA;HORA;Veloc.;Direc.;Temp.;H.Rel.
+Fecha;Hora;Velocidad;Direccion;Temperatura;Humedad
 2018-08-06;0;2.8800000000000003;201.0;28.5;75.0
 2018-08-06;1;6.84;96.0;26.3;90.0
 2018-08-06;2;9.0;329.0;26.3;80.0

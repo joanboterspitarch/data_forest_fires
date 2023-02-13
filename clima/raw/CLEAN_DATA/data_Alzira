@@ -1,4 +1,4 @@
-FECHA;HORA;Veloc.;Direc.;Temp.;H.Rel.
+Fecha;Hora;Velocidad;Direccion;Temperatura;Humedad
 2016-06-16;0;1.08;247.0;;41.0
 2016-06-16;1;0.36000000000000004;234.0;;46.0
 2016-06-16;2;0.7200000000000001;259.0;;49.0
