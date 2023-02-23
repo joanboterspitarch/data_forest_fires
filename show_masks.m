@@ -6,7 +6,7 @@ clc;
 path = "C:\Users\joanb\Desktop\data_incendios\masks";
 
 masks = dir(fullfile(path,'*.mat'));
-n_iter_img = [4, 9, 2, 9, 6, 7, 11, 7, 4, 4, 6];
+%n_iter_img = [4, 9, 2, 9, 6, 7, 11, 7, 4, 4, 6];
 
 for i = 1:numel(masks)
     clc;
